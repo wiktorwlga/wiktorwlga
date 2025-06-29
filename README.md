@@ -21,5 +21,5 @@ I'm a 18-year-old high school student from 🇵🇱 with aspirations to become f
 
 ---
 ![Wiktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiktorwlga&show_icons=true&theme=github_dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=wiktorwlga&theme=github-dark-blue&card_width=400)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wiktorwlga&theme=github-dark-blue&card_width=400" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=wiktorwlga&theme=github-dark-blue&)](https://git.io/streak-stats)
+
