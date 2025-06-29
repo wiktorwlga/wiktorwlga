@@ -1,4 +1,4 @@
-# 👾 Wiktor Waluga
+card_width=400# 👾 Wiktor Waluga
 
 **Future Full-Stack Dev**
 
