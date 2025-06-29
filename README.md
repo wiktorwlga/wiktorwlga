@@ -6,13 +6,14 @@
 
 ---
 <p align="center">
-https://github-readme-stats.vercel.app/api?username=wiktorwlga&show_icons=true&theme=github_dark 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wiktorwlga&show_icons=true&theme=github_dark" /> 
 </p>
 <p align="center">
   <img align="center" src="https://github-trophies.vercel.app/?username=wiktorwlga&column=8&theme=algolia&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="wiktorwlga" />
 </p>
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=wiktorwlga&theme=github-dark-blue&card_width=500)
-
+<p align="center">
+<img align"center" src="https://github-readme-streak-stats-eight.vercel.app/?user=wiktorwlga&theme=github-dark-blue&card_width=500" />
+</p>
 I'm a 18-year-old high school student from 🇵🇱 with aspirations to become full-stack developer in the future. I build my project from planning and designing to solving real-life problems by a bit of code.
 ### 📘 Languages and Tools I use
 
