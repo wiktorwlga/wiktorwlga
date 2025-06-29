@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=wiktorwlga&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 <h1 align="center"> 👾 Hi my name is Wiktor Waluga </h1>
-<p align="center"> 🧠 Future Full-Stack Dev × 🌱 18-years-old × 🚀 I focus on solving real-life problems by web applications</p>
+<p align="center"> 🧠 Future Full-Stack Dev × 🌱 18-years-old × 💡focused on solving real-life problems by web applications</p>
 
 I'm a 18-year-old high school student from 🇵🇱 with aspirations to become full-stack developer in the future. I build my project from planning and designing to solving real-life problems by a bit of code.
 ---
