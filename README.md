@@ -20,6 +20,6 @@ I'm a 18-year-old high school student with aspirations to become full-stack deve
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiktorwlga&theme=github_dark&show_icons=true)
+#
 
 ![Wiktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiktorwlga&show_icons=true&theme=github_dark)
