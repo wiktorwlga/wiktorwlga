@@ -5,7 +5,9 @@
 <p align="center"> 🧠 Future Full-Stack Dev × 🌱 18-years-old × 🚀 focused on futuristic web design</p>
 
 ---
-![Wiktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiktorwlga&show_icons=true&theme=github_dark)
+<p align="center">
+https://github-readme-stats.vercel.app/api?username=wiktorwlga&show_icons=true&theme=github_dark 
+</p>
 <p align="center">
   <img align="center" src="https://github-trophies.vercel.app/?username=wiktorwlga&column=8&theme=algolia&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="wiktorwlga" />
 </p>
