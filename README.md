@@ -2,7 +2,7 @@
 
 **Future Full-Stack Dev**
 
-I'm a 18-year-old high school student with aspirations to become full-stack developer in the future. I build my project from planning and designing to solving real-life problems by a bit of code.
+I'm a 18-year-old high school student from 🇵🇱 with aspirations to become full-stack developer in the future. I build my project from planning and designing to solving real-life problems by a bit of code.
 ---
 ### 📘 Languages and Tools I use
 
