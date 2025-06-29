@@ -18,7 +18,7 @@
 <p align="center">
   <img align="center" src="https://github-trophies.vercel.app/?username=wiktorwlga&column=8&theme=algolia&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="wiktorwlga" />
 </p>
-<h4 align="cemter">
+<h4 align="center">
 I'm a 18-year-old high school student from 🇵🇱 with aspirations to become full-stack developer in the future. I build my project from planning and designing to solving real-life problems by a bit of code.
 </h4>
 <h2 align="center">📘 Languages and Tools I use</h2>
