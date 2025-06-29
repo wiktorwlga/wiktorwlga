@@ -27,3 +27,9 @@ I'm a 18-year-old high school student from 🇵🇱 with aspirations to become f
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=wiktorwlga&theme=github-dark-blue&hide_border=true&card_width=400)](https://git.io/streak-stats)
 
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wiktorwlga&theme=github-dark-blue&hide_border=true&card_width=400" alt="GitHub Streak" />
+</p>
+
