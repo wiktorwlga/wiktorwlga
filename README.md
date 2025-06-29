@@ -14,6 +14,7 @@
 <p align="center">
 <img align"center" src="https://github-readme-streak-stats-eight.vercel.app/?user=wiktorwlga&theme=github-dark-blue&card_width=500" />
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 I'm a 18-year-old high school student from 🇵🇱 with aspirations to become full-stack developer in the future. I build my project from planning and designing to solving real-life problems by a bit of code.
 ### 📘 Languages and Tools I use
 
