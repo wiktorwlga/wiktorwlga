@@ -6,8 +6,9 @@
 
 ---
 ![Wiktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiktorwlga&show_icons=true&theme=github_dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  <img align="center" src="https://github-trophies.vercel.app/?username=DarkSylver&column=8&theme=algolia&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="DarkSylver" />
+</p>
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=wiktorwlga&theme=github-dark-blue&card_width=500)
 
 I'm a 18-year-old high school student from 🇵🇱 with aspirations to become full-stack developer in the future. I build my project from planning and designing to solving real-life problems by a bit of code.
