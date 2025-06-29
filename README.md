@@ -1,6 +1,6 @@
 <h1> 👾 Wiktor Waluga </h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DarkSylver&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=wiktorwlga&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 **Future Full-Stack Dev**
 
