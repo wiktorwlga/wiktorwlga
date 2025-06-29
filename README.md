@@ -11,16 +11,21 @@
 <p align="center">
 <img align"center" src="https://github-readme-streak-stats-eight.vercel.app/?user=wiktorwlga&theme=github-dark-blue&card_width=500" />
 </p>
-
 <p align="center"> 
   <img align"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktorwlga&show_icons=true&theme=github_dark" />
 </p>
+
+
 <p align="center">
   <img align="center" src="https://github-trophies.vercel.app/?username=wiktorwlga&column=8&theme=algolia&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="wiktorwlga" />
 </p>
+---
+
 <h4 align="center">
 I'm a 18-year-old high school student from 🇵🇱 with aspirations to become full-stack developer in the future. I build my project from planning and designing to solving real-life problems by a bit of code.
 </h4>
+---
+
 <h2 align="center">📘 Languages and Tools I use</h2>
 <p align="center">
 <img width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -35,6 +40,5 @@ I'm a 18-year-old high school student from 🇵🇱 with aspirations to become f
 <img width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
----
 
 ![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg)
