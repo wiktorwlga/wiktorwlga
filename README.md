@@ -33,5 +33,5 @@ I'm a 18-year-old high school student from 🇵🇱 with aspirations to become f
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
-<p>HTML CSS JavaScript TypeScript React Linux Bash Node.js Python Git GitHub</p>
+<p align="center" font-size"9">HTML CSS JavaScript TypeScript React Linux Bash Node.js Python Git GitHub</p>
 
