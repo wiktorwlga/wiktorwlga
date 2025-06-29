@@ -7,7 +7,7 @@
 ---
 ![Wiktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiktorwlga&show_icons=true&theme=github_dark)
 <p align="center">
-  <img align="center" src="https://github-trophies.vercel.app/?username=wiktorwlga&column=8&theme=algolia&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="DarkSylver" />
+  <img align="center" src="https://github-trophies.vercel.app/?username=wiktorwlga&column=8&theme=algolia&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="wiktorwlga" />
 </p>
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=wiktorwlga&theme=github-dark-blue&card_width=500)
 
