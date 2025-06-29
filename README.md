@@ -36,5 +36,5 @@ I'm a 18-year-old high school student from 🇵🇱 with aspirations to become f
 <img width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
 ---
-> *"It’s not a bug; it’s an undocumented feature"*
+
 ![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg)
