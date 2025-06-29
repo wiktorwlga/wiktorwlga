@@ -19,7 +19,8 @@
   <img align"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktorwlga&show_icons=true&theme=github_dark" />
 </p>
 I'm a 18-year-old high school student from 🇵🇱 with aspirations to become full-stack developer in the future. I build my project from planning and designing to solving real-life problems by a bit of code.
-### 📘 Languages and Tools I use
+
+<h2>📘 Languages and Tools I use</h2>
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
