@@ -9,14 +9,14 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=wiktorwlga&show_icons=true&theme=github_dark" /> 
 </p>
 <p align="center">
-  <img align="center" src="https://github-trophies.vercel.app/?username=wiktorwlga&column=8&theme=algolia&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="wiktorwlga" />
-</p>
-<p align="center">
 <img align"center" src="https://github-readme-streak-stats-eight.vercel.app/?user=wiktorwlga&theme=github-dark-blue&card_width=500" />
 </p>
 
 <p align="center"> 
   <img align"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktorwlga&show_icons=true&theme=github_dark" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-trophies.vercel.app/?username=wiktorwlga&column=8&theme=algolia&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="wiktorwlga" />
 </p>
 I'm a 18-year-old high school student from 🇵🇱 with aspirations to become full-stack developer in the future. I build my project from planning and designing to solving real-life problems by a bit of code.
 
