@@ -1,9 +1,15 @@
-card_width=400# 👾 Wiktor Waluga
-
+<h1> 👾 Wiktor Waluga </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DarkSylver&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 **Future Full-Stack Dev**
 
 I'm a 18-year-old high school student from 🇵🇱 with aspirations to become full-stack developer in the future. I build my project from planning and designing to solving real-life problems by a bit of code.
 ---
+![Wiktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiktorwlga&show_icons=true&theme=github_dark)
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=wiktorwlga&theme=github-dark-blue&card_width=500)
+
 ### 📘 Languages and Tools I use
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -18,11 +24,4 @@ I'm a 18-year-old high school student from 🇵🇱 with aspirations to become f
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
----
-### 📊 My Stats
-![Wiktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiktorwlga&show_icons=true&theme=github_dark)
-
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=wiktorwlga&theme=github-dark-blue&card_width=500)
-
 
