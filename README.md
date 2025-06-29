@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=wiktorwlga&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 <h1 align="center"> 🌊 Hi my name is Wiktor Waluga </h1>
-<p align="center"> 🧠 Future Full-Stack Dev × 🌱 18-years-old × 🚀 focused on futuristic web design</p>
+<p align="center"> 🧠 Future Full-Stack Dev × 🌱 18-years-old × 🚀 Focused on Futuristic Web Design</p>
 
 ---
 <p align="center">
