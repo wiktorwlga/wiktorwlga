@@ -4,12 +4,13 @@
 <h1 align="center"> 🌊 Hi my name is Wiktor Waluga </h1>
 <p align="center"> 🧠 Future Full-Stack Dev × 🌱 18-years-old × 🚀 focused on futuristic web design</p>
 
-I'm a 18-year-old high school student from 🇵🇱 with aspirations to become full-stack developer in the future. I build my project from planning and designing to solving real-life problems by a bit of code.
 ---
 ![Wiktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiktorwlga&show_icons=true&theme=github_dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=wiktorwlga&theme=github-dark-blue&card_width=500)
 
+I'm a 18-year-old high school student from 🇵🇱 with aspirations to become full-stack developer in the future. I build my project from planning and designing to solving real-life problems by a bit of code.
 ### 📘 Languages and Tools I use
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
