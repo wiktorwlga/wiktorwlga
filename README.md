@@ -51,9 +51,9 @@ I'm a 18-year-old high school student from 🇵🇱 with aspirations to become f
 
 ---
 
-<h4 align="center">
+<h3 align="center">
 Jestem 18 letnim uczniem z aspiracjami do zostania full-stack developerem w przyszłości. Moje projekty buduję od samego planowania i projektowania do rozwiązywania problemów z prawdziwego życia za pomocą odrobiny kodu
-</h4>
+</h3>
 
 ---
 
