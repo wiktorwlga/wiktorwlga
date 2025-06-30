@@ -46,9 +46,6 @@ I'm a 18-year-old high school student from 🇵🇱 with aspirations to become f
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wiktorwlga&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 <h1 align="center"> 🌊 Cześć, nazywam się Wiktor Waluga </h1>
 <p align="center"> 🧠 Przyszły Full-Stack Dev × 🌱 18 lat × 🚀 Skupiony na przyszłościowym designie</p>
 
