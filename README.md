@@ -23,9 +23,9 @@
 
 ---
 
-<h4 align="center">
+<h3 align="center">
 I'm a 18-year-old high school student from 🇵🇱 with aspirations to become full-stack developer in the future. I build my project from planning and designing to solving real-life problems by a bit of code.
-</h4>
+</h3>
 
 ---
 
