@@ -49,7 +49,7 @@ I'm a 18-year-old high school student from 🇵🇱 with aspirations to become f
 ---
 
 <h1 align="center"> 🌊 Cześć, nazywam się Wiktor Waluga </h1>
-<p align="center"> 🧠 Przyszły Full-Stack Dev × 🌱 18 lat × 🚀 Skupiony na przyszłościowym designie</p>
+<p align="center"> 🧠 Full-Stack Dev × 🌱 18 lat × 🚀 Skupiony na przyszłościowym designie</p>
 
 ---
 
