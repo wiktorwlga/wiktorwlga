@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wiktorwlga&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-<h1 align="center"> 🌊 Hi my name is Wiktor Waluga </h1>
-<p align="center"> 🧠 Full-Stack Dev × 🌱 18-years-old × 🚀 Focused on Futuristic Web Design</p>
+<h1 align="center">  Hi my name is Wiktor Waluga </h1>
+<p align="center">  Full-Stack Dev ×  18-years-old ×  I like coding</p>
 
 ---
 
@@ -14,11 +14,6 @@
 </p>
 <p align="center"> 
   <img align"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktorwlga&show_icons=true&theme=github_dark" />
-</p>
-
-
-<p align="center">
-  <img align="center" src="https://github-trophies.vercel.app/?username=wiktorwlga&column=8&theme=algolia&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="wiktorwlga" />
 </p>
 
 ---
@@ -48,8 +43,8 @@ I'm a 18-year-old high school student from 🇵🇱 with aspirations to become f
 
 ---
 
-<h1 align="center"> 🌊 Cześć, nazywam się Wiktor Waluga </h1>
-<p align="center"> 🧠 Full-Stack Dev × 🌱 18 lat × 🚀 Skupiony na przyszłościowym designie</p>
+<h1 align="center">  Cześć, nazywam się Wiktor Waluga </h1>
+<p align="center">  Full-Stack Dev ×  18 lat ×  Lubię kodować</p>
 
 ---
 
