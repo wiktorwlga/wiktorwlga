@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=wiktorwlga&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 <h1 align="center">  Hi my name is Wiktor Waluga </h1>
-<p align="center">  Full-Stack Dev ×  18-years-old ×  I like coding</p>
+<p align="center">  Junior Dev ×  18-years-old ×  I like coding</p>
 
 ---
 
@@ -44,7 +44,7 @@ I'm a 18-year-old high school student from 🇵🇱 with aspirations to become f
 ---
 
 <h1 align="center">  Cześć, nazywam się Wiktor Waluga </h1>
-<p align="center">  Full-Stack Dev ×  18 lat ×  Lubię kodować</p>
+<p align="center">  Junior Dev ×  18 lat ×  Lubię kodować</p>
 
 ---
 
