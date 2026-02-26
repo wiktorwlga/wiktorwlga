@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=wiktorwlga&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 <h1 align="center">  Hi my name is Wiktor Waluga </h1>
-<p align="center">  Junior Dev ×  18-years-old ×  I like coding</p>
+<p align="center">  Junior Dev × 18-years-old  </p>
 
 ---
 
@@ -19,12 +19,12 @@
 ---
 
 <h3 align="center">
-I'm a 18-year-old high school student from 🇵🇱 with aspirations to become full-stack developer in the future. I build my project from planning and designing to solving real-life problems by a bit of code.
+I'm a 18-year-old student from 🇵🇱 based in Katowice
 </h3>
 
 ---
 
-<h2 align="center">📘 Languages and Tools I use</h2>
+<h2 align="center">📘 Languages and Tools /h2>
 <p align="center">
 <img width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -44,12 +44,11 @@ I'm a 18-year-old high school student from 🇵🇱 with aspirations to become f
 ---
 
 <h1 align="center">  Cześć, nazywam się Wiktor Waluga </h1>
-<p align="center">  Junior Dev ×  18 lat ×  Lubię kodować</p>
+<p align="center">  Junior Dev × 18 lat  </p>
 
 ---
 
 <h3 align="center">
-Jestem 18 letnim uczniem z aspiracjami do zostania full-stack developerem w przyszłości. Moje projekty buduję od samego planowania i projektowania do rozwiązywania problemów z prawdziwego życia za pomocą odrobiny kodu
 </h3>
 
 ---
